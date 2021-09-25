@@ -1,0 +1,30 @@
+/*css document*/
+
+h2{
+    color: blue;
+}
+
+.article3 p{
+    color: gray;
+}
+
+.footer h3{
+    color: blue;
+}
+.footer p{
+    color: blue;
+    border: solid gray 1px;
+    padding: 2px;
+}
+
+.center{
+    width: 500px;
+    margin: 100px auto;
+    background-image: url(https://3.bp.blogspot.com/-9SGaqBG6bTg/UkPq9X2n8uI/AAAAAAAAA3c/uMHUOVupUpM/s1600/Light-Cityscape-Rio-De-Janeiro-Brazil-HD.jpg);
+}
+
+.background{
+    background-color: honeydew;
+    padding: 10px;
+    border-radius: 20px;
+}
